@@ -5,7 +5,7 @@
     "dependencies": {
         "@discord-player/extractor": "^2.0.2",
         "@discordjs/opus": "^0.5.0",
-        "@sentry/node": "6.2.3",
+        "@sentry/node": "6.3.6",
         "@vitalets/google-translate-api": "^5.0.0",
         "axios": "^0.20.0",
         "better-sqlite3": "^7.3.1",
