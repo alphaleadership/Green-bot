@@ -35,7 +35,7 @@
         "node-cron": "^3.0.0",
         "node-fetch": "^2.6.1",
         "node-opus": "^0.3.3",
-        "node-superfetch": "^0.1.11",
+        "node-superfetch": "^0.2.3",
         "npm": "^7.12.1",
         "opusscript": "^0.0.8",
         "quick.db": "^7.1.3",
