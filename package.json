@@ -4,7 +4,7 @@
     "main": "sharder.js",
     "dependencies": {
         "@discord-player/extractor": "^2.0.2",
-        "@discordjs/opus": "^0.5.0",
+        "@discordjs/opus": "^0.8.0",
         "@vitalets/google-translate-api": "^5.0.0",
         "canvas": "^2.7.0",
         "discord-giveaways": "^4.5.1",
