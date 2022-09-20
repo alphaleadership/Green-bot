@@ -41,7 +41,7 @@
         "node-fetch": "^2.6.7",
         "package.json": "^2.0.1",
         "petitio": "^1.4.0",
-        "shoukaku": "^3.1.0",
+        "shoukaku": "^3.2.0",
         "spotify-url-info": "^2.2.5",
         "uuid": "^8.3.2"
     },
